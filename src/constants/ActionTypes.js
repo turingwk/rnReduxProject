@@ -1,0 +1,4 @@
+export const LOGIN_IN_INIT = 'LONGIN_IN_INIT';
+export const LOGIN_IN_DOING = 'LOGIN_IN_DOING';
+export const LONGIN_IN_DONE = 'LOGIN_IN_DONE';
+export const GET_AGREEMENT = 'GET_AGREEMENT';
